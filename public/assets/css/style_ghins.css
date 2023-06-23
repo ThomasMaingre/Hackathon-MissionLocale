@@ -1,0 +1,13 @@
+.d-flex {
+    display: flex;
+    justify-content: between;
+}
+
+.flex-fill {
+    flex: 1;
+}
+
+.gradient {
+    background: linear-gradient(to right, #C95234, #CA9421, #FDDB4F, #204D7B);
+    height: 8px;
+}
